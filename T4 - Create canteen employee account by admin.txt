@@ -1,0 +1,1 @@
+As an admin, I want to create canteen employee accounts so that staff can access employee-specific system features.
